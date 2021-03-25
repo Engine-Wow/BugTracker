@@ -1,5 +1,7 @@
 # BugTracker
 
+A hiba beküldéséhez kell egy Github-os regisztráció, és ezen az oldalon Issues részben kell megnyitni a New Issue fület.
+
 Leírás: 
 A probléma/hiba leírása:
 Jelenlegi viselkedés:
